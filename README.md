@@ -19,3 +19,7 @@ Our recommendations and best practices for building Android applications
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+---
+#### SquareBoat builds awesome mobile and web applications for startups. We are based out of Gurgaon, India.
+---
