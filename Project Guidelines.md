@@ -988,7 +988,7 @@ Where applicable, dependencies should be grouped by package name, with spaces in
     // Unit tests dependencies
     testCompile 'org.robolectric:robolectric:3.0'
 
-Both of these approaches makes it easy to locate specific dependencies when required as it keeps dependency declarations both clean and tidy 🙌
+Both of these approaches makes it easy to locate specific dependencies when required as it keeps dependency declarations both clean and tidy.
 
 
 ### 3.1.3 Independent Dependencies
