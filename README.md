@@ -1,6 +1,8 @@
 # Android Guidelines
 Our recommendations and best practices for building Android applications
 
+* [Project style guidelines](https://github.com/squareboat/android-guidelines/blob/master/Project%20Guidelines.md)
+
 ## License
 
 
