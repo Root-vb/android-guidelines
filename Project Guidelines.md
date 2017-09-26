@@ -320,7 +320,7 @@ And instead, do this:
         	} else {
 
         	}
-    	}
+    	    }
 	}
 
 Not only is the extra line for the space not really necessary, but it makes blocks easier to follow when reading the code.
@@ -1008,6 +1008,9 @@ This guideline is inspired from:
 1. [Ribot's Android Guideline](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 2. [BufferApp's Android Guideline](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md)
 
-We in SquareBoat follow both above mentioned guideline and some of our own techniques.
+
+## About SquareBoat
+
+[SquareBoat](https://squareboat.com) is a startup focused, product development company based in Gurgaon, India. You'll find an overview of all our open source projects [on GitHub](https://github.com/squareboat).
 
 
