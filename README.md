@@ -3,23 +3,11 @@ Our recommendations and best practices for building Android applications
 
 * [Project style guidelines](https://github.com/squareboat/android-guidelines/blob/master/Project%20Guidelines.md)
 
-## License
 
+## About SquareBoat
 
-    Copyright 2017 SquareBoat
+[SquareBoat](https://squareboat.com) is a startup focused, product development company based in Gurgaon, India. You'll find an overview of all our open source projects [on GitHub](https://github.com/squareboat).
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+# License
 
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-    
----
-#### SquareBoat builds awesome mobile and web applications for startups. We are based out of Gurgaon, India.
----
+The Apache 2.0 License. Please see [License File](LICENSE) for more information. Copyright © 2017 [SquareBoat](https://squareboat.com)
